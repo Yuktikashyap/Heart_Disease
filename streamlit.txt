@@ -1,0 +1,2 @@
+
+streamlit run "C:\Users\kashy\OneDrive\Desktop\Heart_disease\Heart Disease Predictor.py"
